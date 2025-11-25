@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Confirmation de compte</title>
+    <style>
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .card-container {
+            width: 90%;
+            max-width: 500px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            color: #2872c2;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .content {
+            text-align: left;
+        }
+        .button {
+            display: inline-block;
+            background-color: #2872c2;
+            color: white;
+            padding: 12px 20px;
+            margin-top: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .button:hover {
+            background-color: #1e5a9b;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <div class="card-container">
+            <h2 class="header">Compte créé avec succès</h2>
+            <div class="content">
+                <p>Bonjour,</p>
+                <p>Un compte sur l'entreprise <b>{{company_name}}</b> vient d’être créé avec votre adresse mail.</p>
+                <p>Veuillez cliquer sur le bouton ci-dessous pour définir votre mot de passe :</p>
+                <center>
+                    <a href="{{link}}" class="button">Définir mon mot de passe</a>
+                </center>
+                <p>Si le bouton ne fonctionne pas, copiez et collez ce lien dans votre navigateur :</p>
+                <p style="word-break: break-all; color: #2872c2;"><strong>{{link}}</strong></p>
+                <p>Bien cordialement,</p>
+            </div>
+        </div>
+    </center>
+</body>
+</html>

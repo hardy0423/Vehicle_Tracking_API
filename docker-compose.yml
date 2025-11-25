@@ -1,0 +1,76 @@
+services:
+  vision-db:
+    image: postgis/postgis:16-3.4-alpine
+    container_name: vision-db
+    restart: always
+    ports:
+      - "5423:5432"
+    environment:
+      POSTGRES_DB: vision-connect
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - /var/www/dbVolume:/var/lib/postgresql/data
+    networks:
+      - vision-connect
+
+  vision-pg4:
+    container_name: vision-pg4
+    image: dpage/pgadmin4:latest
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@admin.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "8888:80"
+    networks:
+      - vision-connect
+    depends_on:
+      - vision-db
+
+  nginx:
+    build:
+      context: ./nginx
+      dockerfile: Dockerfile
+    container_name: nginx
+    ports:
+      - 8080:80
+    volumes:
+      - /var/www/frontend:/usr/share/nginx/html:ro
+    environment:
+      - SERVER_NAME=${SERVER_NAME}
+    networks:
+      - vision-connect
+
+
+  vision-backend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: vision-backend
+    restart: unless-stopped
+    networks:
+      - vision-connect
+    ports:
+      - "8000:8000"
+      - "5023:5023"
+    depends_on:
+      - vision-db
+    entrypoint: ["./entrypoint.sh"]
+    environment:
+      DATABASE_URL: postgres://${DB_USER}:${DB_PASSWORD}@db:${DB_PORT}/${DB_NAME}
+    volumes:
+      - .:/home/backend
+
+  vision-redis:
+    image: redis:7-alpine
+    container_name: vision-redis
+    restart: unless-stopped
+    ports:
+      - "6388:6379"
+    networks:
+      - vision-connect
+
+networks:
+  vision-connect:
+    external: true

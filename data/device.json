@@ -1,0 +1,8717 @@
+[
+  {
+    "uid": 1,
+    "product": "Meitrack",
+    "name": "MT80A",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 2,
+    "product": "Meitrack",
+    "name": "MT80i",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 3,
+    "product": "Meitrack",
+    "name": "MT88",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 4,
+    "product": "Meitrack",
+    "name": "MT90",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 5,
+    "product": "Meitrack",
+    "name": "MT90G",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 6,
+    "product": "Meitrack",
+    "name": "MT90L",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 7,
+    "product": "Meitrack",
+    "name": "MT90V4",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 8,
+    "product": "Meitrack",
+    "name": "MVT100",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 9,
+    "product": "Meitrack",
+    "name": "MVT340",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 10,
+    "product": "Meitrack",
+    "name": "MVT380",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 11,
+    "product": "Meitrack",
+    "name": "MVT600",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 12,
+    "product": "Meitrack",
+    "name": "MVT800",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 13,
+    "product": "Meitrack",
+    "name": "T1",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 14,
+    "product": "Meitrack",
+    "name": "T3",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 15,
+    "product": "Meitrack",
+    "name": "T311",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 16,
+    "product": "Meitrack",
+    "name": "T322X",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 17,
+    "product": "Meitrack",
+    "name": "T333",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 18,
+    "product": "Meitrack",
+    "name": "T355",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 19,
+    "product": "Meitrack",
+    "name": "T366",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 20,
+    "product": "Meitrack",
+    "name": "T366G",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 21,
+    "product": "Meitrack",
+    "name": "T366L",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 22,
+    "product": "Meitrack",
+    "name": "TC68S",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 23,
+    "product": "Teltonika",
+    "name": "AT1000",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 24,
+    "product": "Teltonika",
+    "name": "AT2000",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 25,
+    "product": "Teltonika",
+    "name": "CT2000E",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 26,
+    "product": "Teltonika",
+    "name": "FM1000",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 27,
+    "product": "Teltonika",
+    "name": "FM1010",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 28,
+    "product": "Teltonika",
+    "name": "FM1100",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 29,
+    "product": "Teltonika",
+    "name": "FM1110",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 30,
+    "product": "Teltonika",
+    "name": "FM1120",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 31,
+    "product": "Teltonika",
+    "name": "FM1122",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 32,
+    "product": "Teltonika",
+    "name": "FM1125",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 33,
+    "product": "Teltonika",
+    "name": "FM1200",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 34,
+    "product": "Teltonika",
+    "name": "FM1202",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 35,
+    "product": "Teltonika",
+    "name": "FM1204",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 36,
+    "product": "Teltonika",
+    "name": "FM2100",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 37,
+    "product": "Teltonika",
+    "name": "FM2200",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 38,
+    "product": "Teltonika",
+    "name": "FM3001",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 39,
+    "product": "Teltonika",
+    "name": "FM3101",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 40,
+    "product": "Teltonika",
+    "name": "FM3200",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 41,
+    "product": "Teltonika",
+    "name": "FM3300",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 42,
+    "product": "Teltonika",
+    "name": "FM3400",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 43,
+    "product": "Teltonika",
+    "name": "FM3600",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 44,
+    "product": "Teltonika",
+    "name": "FM3612",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 45,
+    "product": "Teltonika",
+    "name": "FM3620",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 46,
+    "product": "Teltonika",
+    "name": "FM3622",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 47,
+    "product": "Teltonika",
+    "name": "FM36M1",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 48,
+    "product": "Teltonika",
+    "name": "FM4100",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 49,
+    "product": "Teltonika",
+    "name": "FM4200",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 50,
+    "product": "Teltonika",
+    "name": "FM5300",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 51,
+    "product": "Teltonika",
+    "name": "FM5500",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 52,
+    "product": "Teltonika",
+    "name": "FM6300",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 53,
+    "product": "Teltonika",
+    "name": "FM6320",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 54,
+    "product": "Teltonika",
+    "name": "FMA110",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 55,
+    "product": "Teltonika",
+    "name": "FMA120",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 56,
+    "product": "Teltonika",
+    "name": "FMA202",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 57,
+    "product": "Teltonika",
+    "name": "FMA204",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 58,
+    "product": "Teltonika",
+    "name": "FMB001",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 59,
+    "product": "Teltonika",
+    "name": "FMB010",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 60,
+    "product": "Teltonika",
+    "name": "FMB110",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 61,
+    "product": "Teltonika",
+    "name": "FMB120",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 62,
+    "product": "Teltonika",
+    "name": "FMB122",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 63,
+    "product": "Teltonika",
+    "name": "FMB125",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 64,
+    "product": "Teltonika",
+    "name": "FMB130",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 65,
+    "product": "Teltonika",
+    "name": "FMB140",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 66,
+    "product": "Teltonika",
+    "name": "FMB202",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 67,
+    "product": "Teltonika",
+    "name": "FMB204",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 68,
+    "product": "Teltonika",
+    "name": "FMB207",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 69,
+    "product": "Teltonika",
+    "name": "FMB208",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 70,
+    "product": "Teltonika",
+    "name": "FMB630",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 71,
+    "product": "Teltonika",
+    "name": "FMB640",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 72,
+    "product": "Teltonika",
+    "name": "FMB900",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 73,
+    "product": "Teltonika",
+    "name": "FMB920",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 74,
+    "product": "Teltonika",
+    "name": "FMB962",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 75,
+    "product": "Teltonika",
+    "name": "FMB964",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 76,
+    "product": "Teltonika",
+    "name": "FMC001",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 77,
+    "product": "Teltonika",
+    "name": "FMC125",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 78,
+    "product": "Teltonika",
+    "name": "FMC130",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 79,
+    "product": "Teltonika",
+    "name": "FMC640",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 80,
+    "product": "Teltonika",
+    "name": "FMM001",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 81,
+    "product": "Teltonika",
+    "name": "FMM125",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 82,
+    "product": "Teltonika",
+    "name": "FMM130",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 83,
+    "product": "Teltonika",
+    "name": "FMM640",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 84,
+    "product": "Teltonika",
+    "name": "FMT100",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 85,
+    "product": "Teltonika",
+    "name": "FMU125",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 86,
+    "product": "Teltonika",
+    "name": "FMU130",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 87,
+    "product": "Teltonika",
+    "name": "GH1201",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 88,
+    "product": "Teltonika",
+    "name": "GH3000",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 89,
+    "product": "Teltonika",
+    "name": "GH4000",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 90,
+    "product": "Teltonika",
+    "name": "GH5200",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 91,
+    "product": "Teltonika",
+    "name": "MH2000",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 92,
+    "product": "Teltonika",
+    "name": "MSP500",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 93,
+    "product": "Teltonika",
+    "name": "MTB100",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 94,
+    "product": "Teltonika",
+    "name": "RUT850",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 95,
+    "product": "Teltonika",
+    "name": "RUT955",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 96,
+    "product": "Teltonika",
+    "name": "RUTX11",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 97,
+    "product": "Teltonika",
+    "name": "TMT250",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 98,
+    "product": "Teltonika",
+    "name": "TST100",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 99,
+    "product": "Meiligao",
+    "name": "GT30i",
+    "value": "meiligao",
+    "port": 7003
+  },
+  {
+    "uid": 100,
+    "product": "Meiligao",
+    "name": "GT60",
+    "value": "meiligao",
+    "port": 7003
+  },
+  {
+    "uid": 101,
+    "product": "Meiligao",
+    "name": "VT300",
+    "value": "meiligao",
+    "port": 7003
+  },
+  {
+    "uid": 102,
+    "product": "Meiligao",
+    "name": "VT310",
+    "value": "meiligao",
+    "port": 7003
+  },
+  {
+    "uid": 103,
+    "product": "Meiligao",
+    "name": "VT400",
+    "value": "meiligao",
+    "port": 7003
+  },
+  {
+    "uid": 104,
+    "product": "Megastek Technologies",
+    "name": "FMS-110",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 105,
+    "product": "Megastek Technologies",
+    "name": "FMS-120",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 106,
+    "product": "Megastek Technologies",
+    "name": "GVT-430",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 107,
+    "product": "Megastek Technologies",
+    "name": "GVT-800",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 108,
+    "product": "Megastek Technologies",
+    "name": "GVT-900",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 109,
+    "product": "Megastek Technologies",
+    "name": "MT-100",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 110,
+    "product": "Megastek Technologies",
+    "name": "MT-110",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 111,
+    "product": "Megastek Technologies",
+    "name": "MT-200x",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 112,
+    "product": "Megastek Technologies",
+    "name": "MT-60",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 113,
+    "product": "Megastek Technologies",
+    "name": "MT-60X",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 114,
+    "product": "Megastek Technologies",
+    "name": "MT-65",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 115,
+    "product": "Megastek Technologies",
+    "name": "MT-70",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 116,
+    "product": "Megastek Technologies",
+    "name": "MT-90N",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 117,
+    "product": "Megastek Technologies",
+    "name": "XT-007",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 118,
+    "product": "Megastek Technologies",
+    "name": "XT-007G",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 119,
+    "product": "Megastek Technologies",
+    "name": "XT-007W",
+    "value": "megastek",
+    "port": 7004
+  },
+  {
+    "uid": 120,
+    "product": "TotemTech",
+    "name": "AT02",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 121,
+    "product": "TotemTech",
+    "name": "AT03",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 122,
+    "product": "TotemTech",
+    "name": "AT04",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 123,
+    "product": "TotemTech",
+    "name": "AT05",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 124,
+    "product": "TotemTech",
+    "name": "AT05-3G",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 125,
+    "product": "TotemTech",
+    "name": "AT06",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 126,
+    "product": "TotemTech",
+    "name": "AT07",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 127,
+    "product": "TotemTech",
+    "name": "AT07-3G",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 128,
+    "product": "TotemTech",
+    "name": "AT09",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 129,
+    "product": "TotemTech",
+    "name": "AT09-3G",
+    "value": "totem",
+    "port": 7005
+  },
+  {
+    "uid": 130,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL02",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 131,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL03",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 132,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL05",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 133,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL08",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 134,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL09",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 135,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL10",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 136,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL19",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 137,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL201",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 138,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-AVL301",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 139,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-GT01",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 140,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-GT08",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 141,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-GT09",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 142,
+    "product": "TZONE Digital Technology",
+    "name": "TZ-VN06",
+    "value": "tzone",
+    "port": 7006
+  },
+  {
+    "uid": 143,
+    "product": "Coban Electronics",
+    "name": "GPS-102B",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 144,
+    "product": "Coban Electronics",
+    "name": "GPS-103A",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 145,
+    "product": "Coban Electronics",
+    "name": "GPS-103B",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 146,
+    "product": "Coban Electronics",
+    "name": "GPS-104",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 147,
+    "product": "Coban Electronics",
+    "name": "GPS-105A",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 148,
+    "product": "Coban Electronics",
+    "name": "GPS-105B",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 149,
+    "product": "Coban Electronics",
+    "name": "GPS-108",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 150,
+    "product": "Coban Electronics",
+    "name": "GPS-303F",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 151,
+    "product": "Coban Electronics",
+    "name": "GPS-303G",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 152,
+    "product": "Coban Electronics",
+    "name": "GPS-303H",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 153,
+    "product": "Coban Electronics",
+    "name": "GPS-303I",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 154,
+    "product": "Coban Electronics",
+    "name": "GPS-306",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 155,
+    "product": "Coban Electronics",
+    "name": "GPS-308",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 156,
+    "product": "Coban Electronics",
+    "name": "GPS-310",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 157,
+    "product": "Coban Electronics",
+    "name": "GPS-311",
+    "value": "coban",
+    "port": 7007
+  },
+  {
+    "uid": 158,
+    "product": "Queclink",
+    "name": "GB100",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 159,
+    "product": "Queclink",
+    "name": "GL100",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 160,
+    "product": "Queclink",
+    "name": "GL100M",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 161,
+    "product": "Queclink",
+    "name": "GL300",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 162,
+    "product": "Queclink",
+    "name": "GL300A",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 163,
+    "product": "Queclink",
+    "name": "GL300W",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 164,
+    "product": "Queclink",
+    "name": "GL500",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 165,
+    "product": "Queclink",
+    "name": "GL501MG",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 166,
+    "product": "Queclink",
+    "name": "GL505",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 167,
+    "product": "Queclink",
+    "name": "GL530",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 168,
+    "product": "Queclink",
+    "name": "GMT100",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 169,
+    "product": "Queclink",
+    "name": "GMT200",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 170,
+    "product": "Queclink",
+    "name": "GT301",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 171,
+    "product": "Queclink",
+    "name": "GV300",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 172,
+    "product": "Queclink",
+    "name": "GV300CAN",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 173,
+    "product": "Queclink",
+    "name": "GV350",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 174,
+    "product": "Queclink",
+    "name": "GV50",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 175,
+    "product": "Queclink",
+    "name": "GV500",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 176,
+    "product": "Queclink",
+    "name": "GV500MA",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 177,
+    "product": "Queclink",
+    "name": "GV500MAP",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 178,
+    "product": "Queclink",
+    "name": "GV55",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 179,
+    "product": "Queclink",
+    "name": "GV56",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 180,
+    "product": "Queclink",
+    "name": "GV56RS",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 181,
+    "product": "Queclink",
+    "name": "GV600",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 182,
+    "product": "Queclink",
+    "name": "GV65",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 183,
+    "product": "Queclink",
+    "name": "GV75",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 184,
+    "product": "Queclink",
+    "name": "GV800G",
+    "value": "queclink",
+    "port": 7008
+  },
+  {
+    "uid": 185,
+    "product": "fifotrack",
+    "name": "A01",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 186,
+    "product": "fifotrack",
+    "name": "A100",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 187,
+    "product": "fifotrack",
+    "name": "A300",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 188,
+    "product": "fifotrack",
+    "name": "A500",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 189,
+    "product": "fifotrack",
+    "name": "A600",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 190,
+    "product": "fifotrack",
+    "name": "A700",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 191,
+    "product": "fifotrack",
+    "name": "Q1",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 192,
+    "product": "fifotrack",
+    "name": "S20",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 193,
+    "product": "fifotrack",
+    "name": "S30",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 194,
+    "product": "fifotrack",
+    "name": "S50",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 195,
+    "product": "fifotrack",
+    "name": "S60",
+    "value": "fifotrack",
+    "port": 7009
+  },
+  {
+    "uid": 196,
+    "product": "Suntech",
+    "name": "ST310U",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 197,
+    "product": "Suntech",
+    "name": "ST330",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 198,
+    "product": "Suntech",
+    "name": "ST330",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 199,
+    "product": "Suntech",
+    "name": "ST3300",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 200,
+    "product": "Suntech",
+    "name": "ST3310",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 201,
+    "product": "Suntech",
+    "name": "ST3330",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 202,
+    "product": "Suntech",
+    "name": "ST3330",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 203,
+    "product": "Suntech",
+    "name": "ST3340",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 204,
+    "product": "Suntech",
+    "name": "ST340",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 205,
+    "product": "Suntech",
+    "name": "ST3940",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 206,
+    "product": "Suntech",
+    "name": "ST4300",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 207,
+    "product": "Suntech",
+    "name": "ST4310",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 208,
+    "product": "Suntech",
+    "name": "ST4330",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 209,
+    "product": "Suntech",
+    "name": "ST4330",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 210,
+    "product": "Suntech",
+    "name": "ST4340",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 211,
+    "product": "Suntech",
+    "name": "ST4910",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 212,
+    "product": "Suntech",
+    "name": "ST4940",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 213,
+    "product": "Suntech",
+    "name": "ST940",
+    "value": "suntech",
+    "port": 7010
+  },
+  {
+    "uid": 214,
+    "product": "N/A",
+    "name": "AT-1",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 215,
+    "product": "N/A",
+    "name": "AT-18",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 216,
+    "product": "N/A",
+    "name": "G91S",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 217,
+    "product": "N/A",
+    "name": "GT005",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 218,
+    "product": "N/A",
+    "name": "GTR-100",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 219,
+    "product": "Gator",
+    "name": "GTRACK4G",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 220,
+    "product": "N/A",
+    "name": "H-02A",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 221,
+    "product": "N/A",
+    "name": "H-02B",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 222,
+    "product": "N/A",
+    "name": "H-06",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 223,
+    "product": "N/A",
+    "name": "H02",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 224,
+    "product": "N/A",
+    "name": "H08",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 225,
+    "product": "Amparos",
+    "name": "M2",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 226,
+    "product": "Amparos",
+    "name": "M5",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 227,
+    "product": "N/A",
+    "name": "MI-G6",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 228,
+    "product": "N/A",
+    "name": "Mini GPS Tracker",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 229,
+    "product": "N/A",
+    "name": "NT19A",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 230,
+    "product": "N/A",
+    "name": "NT201",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 231,
+    "product": "N/A",
+    "name": "NT202",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 232,
+    "product": "N/A",
+    "name": "NT21S",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 233,
+    "product": "N/A",
+    "name": "PT301",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 234,
+    "product": "N/A",
+    "name": "Realtime OBD Car GPS Tracker",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 235,
+    "product": "ReachFar",
+    "name": "RF-16V",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 236,
+    "product": "N/A",
+    "name": "S31",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 237,
+    "product": "Amparos",
+    "name": "S4",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 238,
+    "product": "Amparos",
+    "name": "S6",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 239,
+    "product": "Amparos",
+    "name": "S71",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 240,
+    "product": "Amparos",
+    "name": "S9",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 241,
+    "product": "N/A",
+    "name": "TK110",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 242,
+    "product": "N/A",
+    "name": "TX-2",
+    "value": "tkstar",
+    "port": 7011
+  },
+  {
+    "uid": 243,
+    "product": "SinoTrack",
+    "name": "ST-901",
+    "value": "sinotrack",
+    "port": 7012
+  },
+  {
+    "uid": 244,
+    "product": "SinoTrack",
+    "name": "ST-902",
+    "value": "sinotrack",
+    "port": 7012
+  },
+  {
+    "uid": 245,
+    "product": "SinoTrack",
+    "name": "ST-903",
+    "value": "sinotrack",
+    "port": 7012
+  },
+  {
+    "uid": 246,
+    "product": "SinoTrack",
+    "name": "ST-904",
+    "value": "sinotrack",
+    "port": 7012
+  },
+  {
+    "uid": 247,
+    "product": "SinoTrack",
+    "name": "ST-905",
+    "value": "sinotrack",
+    "port": 7012
+  },
+  {
+    "uid": 248,
+    "product": "SinoTrack",
+    "name": "ST-908",
+    "value": "sinotrack",
+    "port": 7012
+  },
+  {
+    "uid": 249,
+    "product": "SinoTrack",
+    "name": "ST-915",
+    "value": "sinotrack",
+    "port": 7012
+  },
+  {
+    "uid": 250,
+    "product": "TKSTAR",
+    "name": "Mini GPS Tracker",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 251,
+    "product": "TKSTAR",
+    "name": "Motorcycle GPS Tracker",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 252,
+    "product": "TKSTAR",
+    "name": "OBD",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 253,
+    "product": "TKSTAR",
+    "name": "Power Tracker 4G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 254,
+    "product": "TKSTAR",
+    "name": "Relay GPS Tracker",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 255,
+    "product": "TKSTAR",
+    "name": "TK105",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 256,
+    "product": "TKSTAR",
+    "name": "TK106",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 257,
+    "product": "TKSTAR",
+    "name": "TK106 3G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 258,
+    "product": "TKSTAR",
+    "name": "TK109",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 259,
+    "product": "TKSTAR",
+    "name": "TK109 3G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 260,
+    "product": "TKSTAR",
+    "name": "TK208",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 261,
+    "product": "TKSTAR",
+    "name": "TK209A",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 262,
+    "product": "TKSTAR",
+    "name": "TK209A 3G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 263,
+    "product": "TKSTAR",
+    "name": "TK209A 4G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 264,
+    "product": "TKSTAR",
+    "name": "TK209B",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 265,
+    "product": "TKSTAR",
+    "name": "TK209B 3G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 266,
+    "product": "TKSTAR",
+    "name": "TK209C",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 267,
+    "product": "TKSTAR",
+    "name": "TK210",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 268,
+    "product": "TKSTAR",
+    "name": "TK210 3G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 269,
+    "product": "TKSTAR",
+    "name": "TK210 4G",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 270,
+    "product": "TKSTAR",
+    "name": "TK210B",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 271,
+    "product": "TKSTAR",
+    "name": "TK300",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 272,
+    "product": "TKSTAR",
+    "name": "TK800",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 273,
+    "product": "TKSTAR",
+    "name": "TK909",
+    "value": "tkstar",
+    "port": 7012
+  },
+  {
+    "uid": 274,
+    "product": "Concox",
+    "name": "AT1",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 275,
+    "product": "Concox",
+    "name": "AT2",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 276,
+    "product": "Concox",
+    "name": "AT3",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 277,
+    "product": "Concox",
+    "name": "AT4",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 278,
+    "product": "Concox",
+    "name": "AT6",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 279,
+    "product": "Concox",
+    "name": "BL10",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 280,
+    "product": "Concox",
+    "name": "CT10",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 281,
+    "product": "Concox",
+    "name": "EG02",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 282,
+    "product": "Concox",
+    "name": "ET25",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 283,
+    "product": "Concox",
+    "name": "GK310",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 284,
+    "product": "Concox",
+    "name": "GT06",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 285,
+    "product": "Concox",
+    "name": "GT06E",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 286,
+    "product": "Concox",
+    "name": "GT06F",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 287,
+    "product": "Concox",
+    "name": "GT06N",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 288,
+    "product": "Concox",
+    "name": "GT07",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 289,
+    "product": "Concox",
+    "name": "GT08",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 290,
+    "product": "Concox",
+    "name": "GT800",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 291,
+    "product": "Concox",
+    "name": "GV20",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 292,
+    "product": "Concox",
+    "name": "GV40",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 293,
+    "product": "Concox",
+    "name": "HVT001",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 294,
+    "product": "Concox",
+    "name": "JM-LG01",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 295,
+    "product": "Concox",
+    "name": "JM-LG02",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 296,
+    "product": "Concox",
+    "name": "JM-LG05",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 297,
+    "product": "Concox",
+    "name": "JM-LL01",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 298,
+    "product": "Concox",
+    "name": "JM-VG01U",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 299,
+    "product": "Concox",
+    "name": "JM-VL02",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 300,
+    "product": "Concox",
+    "name": "OB22",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 301,
+    "product": "Concox",
+    "name": "Q2",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 302,
+    "product": "Concox",
+    "name": "Qbit",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 303,
+    "product": "Concox",
+    "name": "TR06",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 304,
+    "product": "Concox",
+    "name": "WeTrack Lite",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 305,
+    "product": "Concox",
+    "name": "WeTrack140",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 306,
+    "product": "Concox",
+    "name": "WeTrack2",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 307,
+    "product": "Concox",
+    "name": "X3",
+    "value": "concox",
+    "port": 7013
+  },
+  {
+    "uid": 308,
+    "product": "CanTrack",
+    "name": "G01",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 309,
+    "product": "CanTrack",
+    "name": "G02",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 310,
+    "product": "CanTrack",
+    "name": "G02M",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 311,
+    "product": "CanTrack",
+    "name": "G03",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 312,
+    "product": "CanTrack",
+    "name": "G05",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 313,
+    "product": "CanTrack",
+    "name": "G200",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 314,
+    "product": "CanTrack",
+    "name": "G500",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 315,
+    "product": "CanTrack",
+    "name": "G900",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 316,
+    "product": "CanTrack",
+    "name": "GT02",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 317,
+    "product": "CanTrack",
+    "name": "TK06A",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 318,
+    "product": "CanTrack",
+    "name": "TK100",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 319,
+    "product": "CanTrack",
+    "name": "TK102B",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 320,
+    "product": "CanTrack",
+    "name": "TK103",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 321,
+    "product": "CanTrack",
+    "name": "TK103B",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 322,
+    "product": "CanTrack",
+    "name": "TK200A",
+    "value": "cantrack",
+    "port": 7014
+  },
+  {
+    "uid": 323,
+    "product": "LKGPS",
+    "name": "330C",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 324,
+    "product": "LKGPS",
+    "name": "930A",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 325,
+    "product": "LKGPS",
+    "name": "LK106",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 326,
+    "product": "LKGPS",
+    "name": "LK106-3G",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 327,
+    "product": "LKGPS",
+    "name": "LK108",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 328,
+    "product": "LKGPS",
+    "name": "LK109",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 329,
+    "product": "LKGPS",
+    "name": "LK110",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 330,
+    "product": "LKGPS",
+    "name": "LK120",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 331,
+    "product": "LKGPS",
+    "name": "LK206",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 332,
+    "product": "LKGPS",
+    "name": "LK206-3G",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 333,
+    "product": "LKGPS",
+    "name": "LK206A",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 334,
+    "product": "LKGPS",
+    "name": "LK206B",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 335,
+    "product": "LKGPS",
+    "name": "LK208",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 336,
+    "product": "LKGPS",
+    "name": "LK209A",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 337,
+    "product": "LKGPS",
+    "name": "LK209B",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 338,
+    "product": "LKGPS",
+    "name": "LK209C",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 339,
+    "product": "LKGPS",
+    "name": "LK210",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 340,
+    "product": "LKGPS",
+    "name": "LK210-3G",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 341,
+    "product": "LKGPS",
+    "name": "LK300",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 342,
+    "product": "LKGPS",
+    "name": "LK310",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 343,
+    "product": "LKGPS",
+    "name": "LK330",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 344,
+    "product": "LKGPS",
+    "name": "LK330B",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 345,
+    "product": "LKGPS",
+    "name": "LK660",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 346,
+    "product": "LKGPS",
+    "name": "LK670",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 347,
+    "product": "LKGPS",
+    "name": "LK670B",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 348,
+    "product": "LKGPS",
+    "name": "LK680",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 349,
+    "product": "LKGPS",
+    "name": "LK700",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 350,
+    "product": "LKGPS",
+    "name": "LK710",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 351,
+    "product": "LKGPS",
+    "name": "LK710C",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 352,
+    "product": "LKGPS",
+    "name": "LK730",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 353,
+    "product": "LKGPS",
+    "name": "LK770",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 354,
+    "product": "LKGPS",
+    "name": "LK800",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 355,
+    "product": "LKGPS",
+    "name": "LK910",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 356,
+    "product": "LKGPS",
+    "name": "LK930B",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 357,
+    "product": "LKGPS",
+    "name": "LK930C",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 358,
+    "product": "LKGPS",
+    "name": "LK930D",
+    "value": "lkgps",
+    "port": 7015
+  },
+  {
+    "uid": 359,
+    "product": "Carscop",
+    "name": "CCTR-600",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 360,
+    "product": "Carscop",
+    "name": "CCTR-620",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 361,
+    "product": "Carscop",
+    "name": "CCTR-620+",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 362,
+    "product": "Carscop",
+    "name": "CCTR-622",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 363,
+    "product": "Carscop",
+    "name": "CCTR-622+",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 364,
+    "product": "Carscop",
+    "name": "CCTR-622G",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 365,
+    "product": "Carscop",
+    "name": "CCTR-623",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 366,
+    "product": "Carscop",
+    "name": "CCTR-626",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 367,
+    "product": "Carscop",
+    "name": "CCTR-628",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 368,
+    "product": "Carscop",
+    "name": "CCTR-629",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 369,
+    "product": "Carscop",
+    "name": "CCTR-630",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 370,
+    "product": "Carscop",
+    "name": "CCTR-631",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 371,
+    "product": "Carscop",
+    "name": "CCTR-632",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 372,
+    "product": "Carscop",
+    "name": "CCTR-800+",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 373,
+    "product": "Carscop",
+    "name": "CCTR-800+V2",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 374,
+    "product": "Carscop",
+    "name": "CCTR-800G",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 375,
+    "product": "Carscop",
+    "name": "CCTR-800G-4G",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 376,
+    "product": "Carscop",
+    "name": "CCTR-803",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 377,
+    "product": "Carscop",
+    "name": "CCTR-803+",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 378,
+    "product": "Carscop",
+    "name": "CCTR-803B",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 379,
+    "product": "Carscop",
+    "name": "CCTR-803BT",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 380,
+    "product": "Carscop",
+    "name": "CCTR-803G",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 381,
+    "product": "Carscop",
+    "name": "CCTR-804",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 382,
+    "product": "Carscop",
+    "name": "CCTR-805G-V2",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 383,
+    "product": "Carscop",
+    "name": "CCTR-805G-V3",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 384,
+    "product": "Carscop",
+    "name": "CCTR-806",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 385,
+    "product": "Carscop",
+    "name": "CCTR-808S",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 386,
+    "product": "Carscop",
+    "name": "CCTR-809",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 387,
+    "product": "Carscop",
+    "name": "CCTR-809A",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 388,
+    "product": "Carscop",
+    "name": "CCTR-809P",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 389,
+    "product": "Carscop",
+    "name": "CCTR-811",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 390,
+    "product": "Carscop",
+    "name": "CCTR-820",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 391,
+    "product": "Carscop",
+    "name": "CCTR-821",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 392,
+    "product": "Carscop",
+    "name": "CCTR-822",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 393,
+    "product": "Carscop",
+    "name": "CCTR-822D",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 394,
+    "product": "Carscop",
+    "name": "CCTR-823",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 395,
+    "product": "Carscop",
+    "name": "CCTR-828",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 396,
+    "product": "Carscop",
+    "name": "CCTR-829",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 397,
+    "product": "Carscop",
+    "name": "CCTR-830",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 398,
+    "product": "Carscop",
+    "name": "CCTR-830+",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 399,
+    "product": "Carscop",
+    "name": "CCTR-830C",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 400,
+    "product": "Carscop",
+    "name": "CCTR-830G",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 401,
+    "product": "Carscop",
+    "name": "CCTR-831",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 402,
+    "product": "Carscop",
+    "name": "CCTR-922",
+    "value": "carscop",
+    "port": 7016
+  },
+  {
+    "uid": 403,
+    "product": "Xexun",
+    "name": "TK101",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 404,
+    "product": "Xexun",
+    "name": "TK102",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 405,
+    "product": "Xexun",
+    "name": "TK102-2",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 406,
+    "product": "Xexun",
+    "name": "TK103",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 407,
+    "product": "Xexun",
+    "name": "TK103-2",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 408,
+    "product": "Xexun",
+    "name": "TK104",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 409,
+    "product": "Xexun",
+    "name": "TK106",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 410,
+    "product": "Xexun",
+    "name": "TK107",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 411,
+    "product": "Xexun",
+    "name": "TK108",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 412,
+    "product": "Xexun",
+    "name": "TK201",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 413,
+    "product": "Xexun",
+    "name": "TK201-2",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 414,
+    "product": "Xexun",
+    "name": "TK202",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 415,
+    "product": "Xexun",
+    "name": "TK203",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 416,
+    "product": "Xexun",
+    "name": "TK206",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 417,
+    "product": "Xexun",
+    "name": "XT008",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 418,
+    "product": "Xexun",
+    "name": "XT009",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 419,
+    "product": "Xexun",
+    "name": "XT011",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 420,
+    "product": "Xexun",
+    "name": "XT107",
+    "value": "xexun",
+    "port": 7017
+  },
+  {
+    "uid": 421,
+    "product": "iStartek",
+    "name": "PT19",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 422,
+    "product": "iStartek",
+    "name": "PT21",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 423,
+    "product": "iStartek",
+    "name": "PT23",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 424,
+    "product": "iStartek",
+    "name": "PT31",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 425,
+    "product": "iStartek",
+    "name": "PT50",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 426,
+    "product": "iStartek",
+    "name": "PT55",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 427,
+    "product": "iStartek",
+    "name": "PT60",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 428,
+    "product": "iStartek",
+    "name": "VT100",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 429,
+    "product": "iStartek",
+    "name": "VT100",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 430,
+    "product": "iStartek",
+    "name": "VT140",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 431,
+    "product": "iStartek",
+    "name": "VT202",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 432,
+    "product": "iStartek",
+    "name": "VT203",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 433,
+    "product": "iStartek",
+    "name": "VT206",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 434,
+    "product": "iStartek",
+    "name": "VT206",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 435,
+    "product": "iStartek",
+    "name": "VT208",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 436,
+    "product": "iStartek",
+    "name": "VT600",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 437,
+    "product": "iStartek",
+    "name": "VT600",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 438,
+    "product": "iStartek",
+    "name": "VT900",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 439,
+    "product": "iStartek",
+    "name": "VT900-G",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 440,
+    "product": "iStartek",
+    "name": "VT900-L",
+    "value": "istartek",
+    "port": 7018
+  },
+  {
+    "uid": 441,
+    "product": "XeElectech",
+    "name": "GRTQ",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 442,
+    "product": "XeElectech",
+    "name": "Mini GPS Tracker",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 443,
+    "product": "XeElectech",
+    "name": "XE103",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 444,
+    "product": "XeElectech",
+    "name": "XE106",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 445,
+    "product": "XeElectech",
+    "name": "XE109",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 446,
+    "product": "XeElectech",
+    "name": "XE120",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 447,
+    "product": "XeElectech",
+    "name": "XE201",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 448,
+    "product": "XeElectech",
+    "name": "XE208",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 449,
+    "product": "XeElectech",
+    "name": "XE209A",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 450,
+    "product": "XeElectech",
+    "name": "XE209B",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 451,
+    "product": "XeElectech",
+    "name": "XE209C",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 452,
+    "product": "XeElectech",
+    "name": "XE210",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 453,
+    "product": "XeElectech",
+    "name": "XE210-3G",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 454,
+    "product": "XeElectech",
+    "name": "XE300",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 455,
+    "product": "XeElectech",
+    "name": "XE710",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 456,
+    "product": "XeElectech",
+    "name": "XE710C",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 457,
+    "product": "XeElectech",
+    "name": "XE800",
+    "value": "xeelectech",
+    "port": 7019
+  },
+  {
+    "uid": 458,
+    "product": "Vjoy",
+    "name": "C20T",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 459,
+    "product": "Vjoy",
+    "name": "C30T",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 460,
+    "product": "Vjoy",
+    "name": "ET005",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 461,
+    "product": "Vjoy",
+    "name": "ET006",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 462,
+    "product": "Vjoy",
+    "name": "ET007",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 463,
+    "product": "Vjoy",
+    "name": "ET102",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 464,
+    "product": "Vjoy",
+    "name": "ET103",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 465,
+    "product": "Vjoy",
+    "name": "ET201",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 466,
+    "product": "Vjoy",
+    "name": "OT001",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 467,
+    "product": "Vjoy",
+    "name": "OT002",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 470,
+    "product": "Vjoy",
+    "name": "T0024",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 471,
+    "product": "Vjoy",
+    "name": "T0026",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 472,
+    "product": "Vjoy",
+    "name": "T10",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 473,
+    "product": "Vjoy",
+    "name": "T1024",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 474,
+    "product": "Vjoy",
+    "name": "T1080",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 475,
+    "product": "Vjoy",
+    "name": "T1124",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 476,
+    "product": "Vjoy",
+    "name": "T12",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 477,
+    "product": "Vjoy",
+    "name": "T12SE",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 478,
+    "product": "Vjoy",
+    "name": "T13",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 479,
+    "product": "Vjoy",
+    "name": "T15400",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 480,
+    "product": "Vjoy",
+    "name": "T16",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 481,
+    "product": "Vjoy",
+    "name": "T18",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 482,
+    "product": "Vjoy",
+    "name": "T18H",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 483,
+    "product": "Vjoy",
+    "name": "T19",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 484,
+    "product": "Vjoy",
+    "name": "T2024",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 485,
+    "product": "Vjoy",
+    "name": "T2124",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 486,
+    "product": "Vjoy",
+    "name": "T300",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 487,
+    "product": "Vjoy",
+    "name": "T300S",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 488,
+    "product": "Vjoy",
+    "name": "T3124",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 489,
+    "product": "Vjoy",
+    "name": "T3180",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 490,
+    "product": "Vjoy",
+    "name": "T4024",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 491,
+    "product": "Vjoy",
+    "name": "T4400",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 492,
+    "product": "Vjoy",
+    "name": "T500",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 493,
+    "product": "Vjoy",
+    "name": "T500S",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 494,
+    "product": "Vjoy",
+    "name": "T5010",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 495,
+    "product": "Vjoy",
+    "name": "T5010S",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 496,
+    "product": "Vjoy",
+    "name": "T5015",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 497,
+    "product": "Vjoy",
+    "name": "T5015S",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 498,
+    "product": "Vjoy",
+    "name": "T5020",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 499,
+    "product": "Vjoy",
+    "name": "T5020S",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 500,
+    "product": "Vjoy",
+    "name": "T510",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 501,
+    "product": "Vjoy",
+    "name": "T5124",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 502,
+    "product": "Vjoy",
+    "name": "T531W",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 503,
+    "product": "Vjoy",
+    "name": "T532W",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 504,
+    "product": "Vjoy",
+    "name": "T580",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 505,
+    "product": "Vjoy",
+    "name": "T580W",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 506,
+    "product": "Vjoy",
+    "name": "T6124",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 507,
+    "product": "Vjoy",
+    "name": "T6124E",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 508,
+    "product": "Vjoy",
+    "name": "T630",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 509,
+    "product": "Vjoy",
+    "name": "T805",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 510,
+    "product": "Vjoy",
+    "name": "T8124BMG",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 511,
+    "product": "Vjoy",
+    "name": "T8800",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 512,
+    "product": "Vjoy",
+    "name": "T903",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 513,
+    "product": "Vjoy",
+    "name": "T905",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 514,
+    "product": "Vjoy",
+    "name": "TK05",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 515,
+    "product": "Vjoy",
+    "name": "TK05SE",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 516,
+    "product": "Vjoy",
+    "name": "TK05SSE",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 517,
+    "product": "Vjoy",
+    "name": "TK10",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 518,
+    "product": "Vjoy",
+    "name": "TK101",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 519,
+    "product": "Vjoy",
+    "name": "TK10SE",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 520,
+    "product": "Vjoy",
+    "name": "TK10SSE",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 521,
+    "product": "Vjoy",
+    "name": "TK15",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 522,
+    "product": "Vjoy",
+    "name": "TK20",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 525,
+    "product": "Vjoy",
+    "name": "TK20SE",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 526,
+    "product": "Vjoy",
+    "name": "TK20SSE",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 527,
+    "product": "Vjoy",
+    "name": "TK411S-4G",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 528,
+    "product": "Vjoy",
+    "name": "TT0024",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 529,
+    "product": "Vjoy",
+    "name": "TT330",
+    "value": "vjoycar",
+    "port": 7020
+  },
+  {
+    "uid": 530,
+    "product": "Eelink",
+    "name": "GPT06",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 531,
+    "product": "Eelink",
+    "name": "GPT06-W",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 532,
+    "product": "Eelink",
+    "name": "GPT09",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 533,
+    "product": "Eelink",
+    "name": "GPT12",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 534,
+    "product": "Eelink",
+    "name": "GPT12-L",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 535,
+    "product": "Eelink",
+    "name": "GPT19",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 536,
+    "product": "Eelink",
+    "name": "GPT19-H",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 537,
+    "product": "Eelink",
+    "name": "GPT29",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 538,
+    "product": "Eelink",
+    "name": "GPT46",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 539,
+    "product": "Eelink",
+    "name": "K20",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 540,
+    "product": "Eelink",
+    "name": "K30",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 541,
+    "product": "Eelink",
+    "name": "K9",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 542,
+    "product": "Eelink",
+    "name": "OT08",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 543,
+    "product": "Eelink",
+    "name": "OT10",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 544,
+    "product": "Eelink",
+    "name": "P168",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 545,
+    "product": "Eelink",
+    "name": "PT06-T",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 546,
+    "product": "Eelink",
+    "name": "PT18",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 547,
+    "product": "Eelink",
+    "name": "PT26",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 548,
+    "product": "Eelink",
+    "name": "TK115",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 549,
+    "product": "Eelink",
+    "name": "TK116",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 550,
+    "product": "Eelink",
+    "name": "TK116-T",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 551,
+    "product": "Eelink",
+    "name": "TK119-T",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 552,
+    "product": "Eelink",
+    "name": "TK119-W",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 553,
+    "product": "Eelink",
+    "name": "TK121",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 554,
+    "product": "Eelink",
+    "name": "TK121-S",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 555,
+    "product": "Eelink",
+    "name": "TK319-H",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 556,
+    "product": "Eelink",
+    "name": "TK319L",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 557,
+    "product": "Eelink",
+    "name": "TK419",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 558,
+    "product": "Gosafe",
+    "name": "G1C",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 559,
+    "product": "Gosafe",
+    "name": "G1C Mini",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 560,
+    "product": "Gosafe",
+    "name": "G1RUS",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 561,
+    "product": "Gosafe",
+    "name": "G1S",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 562,
+    "product": "Gosafe",
+    "name": "G2P",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 563,
+    "product": "Gosafe",
+    "name": "G3A",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 564,
+    "product": "Gosafe",
+    "name": "G3S",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 565,
+    "product": "Gosafe",
+    "name": "G3SC",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 566,
+    "product": "Gosafe",
+    "name": "G6C",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 567,
+    "product": "Gosafe",
+    "name": "G6S",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 568,
+    "product": "Gosafe",
+    "name": "G71",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 569,
+    "product": "Gosafe",
+    "name": "G717",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 570,
+    "product": "Gosafe",
+    "name": "G737",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 571,
+    "product": "Gosafe",
+    "name": "G77",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 572,
+    "product": "Gosafe",
+    "name": "G777",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 573,
+    "product": "Gosafe",
+    "name": "G787",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 574,
+    "product": "Gosafe",
+    "name": "G79",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 575,
+    "product": "Gosafe",
+    "name": "G797",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 576,
+    "product": "Gosafe",
+    "name": "G797W",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 577,
+    "product": "Gosafe",
+    "name": "G7A7",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 578,
+    "product": "Gosafe",
+    "name": "G91i",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 579,
+    "product": "Gosafe",
+    "name": "GAT1000",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 580,
+    "product": "Gosafe",
+    "name": "GAT3000",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 581,
+    "product": "Gosafe",
+    "name": "GS16",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 582,
+    "product": "Gosafe",
+    "name": "GTU5000",
+    "value": "gosafe",
+    "port": 7022
+  },
+  {
+    "uid": 583,
+    "product": "Skypatrol",
+    "name": "SP1603",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 584,
+    "product": "Skypatrol",
+    "name": "SP2600",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 585,
+    "product": "Skypatrol",
+    "name": "SP2603",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 586,
+    "product": "Skypatrol",
+    "name": "SP3603",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 587,
+    "product": "Skypatrol",
+    "name": "SP3801",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 588,
+    "product": "Skypatrol",
+    "name": "SP3824",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 589,
+    "product": "Skypatrol",
+    "name": "SP4603",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 590,
+    "product": "Skypatrol",
+    "name": "SP5603",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 591,
+    "product": "Skypatrol",
+    "name": "SP7600",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 592,
+    "product": "Skypatrol",
+    "name": "SP8603",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 593,
+    "product": "Skypatrol",
+    "name": "SP8703",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 594,
+    "product": "Skypatrol",
+    "name": "SP8824",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 595,
+    "product": "Skypatrol",
+    "name": "SP9603",
+    "value": "skypatrol",
+    "port": 7022
+  },
+  {
+    "uid": 596,
+    "product": "Xirgo",
+    "name": "XT1040S6",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 597,
+    "product": "Xirgo",
+    "name": "XT2000G",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 598,
+    "product": "Xirgo",
+    "name": "XT2050C",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 599,
+    "product": "Xirgo",
+    "name": "XT2060G",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 600,
+    "product": "Xirgo",
+    "name": "XT2100",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 601,
+    "product": "Xirgo",
+    "name": "XT2150",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 602,
+    "product": "Xirgo",
+    "name": "XT2150C",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 603,
+    "product": "Xirgo",
+    "name": "XT2150G",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 604,
+    "product": "Xirgo",
+    "name": "XT2160G",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 605,
+    "product": "Xirgo",
+    "name": "XT2180",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 606,
+    "product": "Xirgo",
+    "name": "XT3200",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 607,
+    "product": "Xirgo",
+    "name": "XT4500",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 608,
+    "product": "Xirgo",
+    "name": "XT4500G",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 609,
+    "product": "Xirgo",
+    "name": "XT4550C",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 610,
+    "product": "Xirgo",
+    "name": "XT4560G",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 611,
+    "product": "Xirgo",
+    "name": "XT4700",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 612,
+    "product": "Xirgo",
+    "name": "XT4750C",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 613,
+    "product": "Xirgo",
+    "name": "XT4760",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 614,
+    "product": "Xirgo",
+    "name": "XT4760G5",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 615,
+    "product": "Xirgo",
+    "name": "XT4850C",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 616,
+    "product": "Xirgo",
+    "name": "XT4860G",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 617,
+    "product": "Xirgo",
+    "name": "XT4900",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 618,
+    "product": "Xirgo",
+    "name": "XT4975",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 619,
+    "product": "Xirgo",
+    "name": "XT5000",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 620,
+    "product": "Xirgo",
+    "name": "XT5050C",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 621,
+    "product": "Xirgo",
+    "name": "XT5060",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 622,
+    "product": "Xirgo",
+    "name": "XT6200",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 623,
+    "product": "Xirgo",
+    "name": "XT6260",
+    "value": "xirgo",
+    "port": 7024
+  },
+  {
+    "uid": 624,
+    "product": "Smartrack",
+    "name": "KX300",
+    "value": "smartrack",
+    "port": 7025
+  },
+  {
+    "uid": 625,
+    "product": "Smartrack",
+    "name": "KX301",
+    "value": "smartrack",
+    "port": 7025
+  },
+  {
+    "uid": 626,
+    "product": "Smartrack",
+    "name": "KX302",
+    "value": "smartrack",
+    "port": 7025
+  },
+  {
+    "uid": 627,
+    "product": "Smartrack",
+    "name": "KX402",
+    "value": "smartrack",
+    "port": 7025
+  },
+  {
+    "uid": 628,
+    "product": "ReachFar",
+    "name": "RF-V03",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 629,
+    "product": "ReachFar",
+    "name": "RF-V10",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 630,
+    "product": "ReachFar",
+    "name": "RF-V11",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 631,
+    "product": "ReachFar",
+    "name": "RF-V16",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 632,
+    "product": "ReachFar",
+    "name": "RF-V18",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 633,
+    "product": "ReachFar",
+    "name": "RF-V20",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 634,
+    "product": "ReachFar",
+    "name": "RF-V26",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 635,
+    "product": "ReachFar",
+    "name": "RF-V26+",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 636,
+    "product": "ReachFar",
+    "name": "RF-V28",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 637,
+    "product": "ReachFar",
+    "name": "RF-V30",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 638,
+    "product": "ReachFar",
+    "name": "RF-V32",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 639,
+    "product": "ReachFar",
+    "name": "RF-V34",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 640,
+    "product": "ReachFar",
+    "name": "RF-V36",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 641,
+    "product": "ReachFar",
+    "name": "RF-V38",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 642,
+    "product": "ReachFar",
+    "name": "RF-V40",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 643,
+    "product": "ReachFar",
+    "name": "RF-V42",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 644,
+    "product": "ReachFar",
+    "name": "RF-V43",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 645,
+    "product": "ReachFar",
+    "name": "RF-V44",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 646,
+    "product": "ReachFar",
+    "name": "RF-V46",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 647,
+    "product": "ReachFar",
+    "name": "RF-V47",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 648,
+    "product": "ReachFar",
+    "name": "RF-V6",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 649,
+    "product": "ReachFar",
+    "name": "RF-V6+",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 650,
+    "product": "ReachFar",
+    "name": "RF-V7",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 651,
+    "product": "ReachFar",
+    "name": "RF-V8",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 652,
+    "product": "ReachFar",
+    "name": "RF-V8S",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 653,
+    "product": "ReachFar",
+    "name": "RF-V9",
+    "value": "reachfar",
+    "port": 7026
+  },
+  {
+    "uid": 654,
+    "product": "ICAR GPS",
+    "name": "IK100",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 655,
+    "product": "ICAR GPS",
+    "name": "IK101",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 656,
+    "product": "ICAR GPS",
+    "name": "IK110",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 657,
+    "product": "ICAR GPS",
+    "name": "IK111",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 658,
+    "product": "ICAR GPS",
+    "name": "IK112",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 659,
+    "product": "ICAR GPS",
+    "name": "IK120",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 660,
+    "product": "ICAR GPS",
+    "name": "IK121",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 661,
+    "product": "ICAR GPS",
+    "name": "IK122",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 662,
+    "product": "ICAR GPS",
+    "name": "IK123",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 663,
+    "product": "ICAR GPS",
+    "name": "IK140",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 664,
+    "product": "ICAR GPS",
+    "name": "IK151",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 665,
+    "product": "ICAR GPS",
+    "name": "IK200",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 666,
+    "product": "ICAR GPS",
+    "name": "IK201",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 667,
+    "product": "ICAR GPS",
+    "name": "IK202",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 668,
+    "product": "ICAR GPS",
+    "name": "IK203",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 669,
+    "product": "ICAR GPS",
+    "name": "IK204",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 670,
+    "product": "ICAR GPS",
+    "name": "IK205",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 671,
+    "product": "ICAR GPS",
+    "name": "IK206",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 672,
+    "product": "ICAR GPS",
+    "name": "IK210",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 673,
+    "product": "ICAR GPS",
+    "name": "IK220",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 674,
+    "product": "ICAR GPS",
+    "name": "IK230",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 675,
+    "product": "ICAR GPS",
+    "name": "IK240",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 676,
+    "product": "ICAR GPS",
+    "name": "IK241",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 677,
+    "product": "ICAR GPS",
+    "name": "IK242",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 678,
+    "product": "ICAR GPS",
+    "name": "IK700",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 679,
+    "product": "ICAR GPS",
+    "name": "IK702",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 680,
+    "product": "ICAR GPS",
+    "name": "IK703",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 681,
+    "product": "ICAR GPS",
+    "name": "IK710",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 682,
+    "product": "ICAR GPS",
+    "name": "IK711",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 683,
+    "product": "ICAR GPS",
+    "name": "IK720",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 684,
+    "product": "ICAR GPS",
+    "name": "IK721",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 685,
+    "product": "ICAR GPS",
+    "name": "IK722",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 686,
+    "product": "ICAR GPS",
+    "name": "IK723",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 687,
+    "product": "ICAR GPS",
+    "name": "IK726",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 688,
+    "product": "ICAR GPS",
+    "name": "IK740",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 689,
+    "product": "ICAR GPS",
+    "name": "IK741",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 690,
+    "product": "ICAR GPS",
+    "name": "IK750",
+    "value": "icargps",
+    "port": 7027
+  },
+  {
+    "uid": 691,
+    "product": "i-Trac GPS",
+    "name": "A1",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 692,
+    "product": "i-Trac GPS",
+    "name": "A1X",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 693,
+    "product": "i-Trac GPS",
+    "name": "A3",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 694,
+    "product": "i-Trac GPS",
+    "name": "AS2000+",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 695,
+    "product": "i-Trac GPS",
+    "name": "AS5000",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 696,
+    "product": "i-Trac GPS",
+    "name": "GTLT3",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 697,
+    "product": "i-Trac GPS",
+    "name": "MT-1",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 698,
+    "product": "i-Trac GPS",
+    "name": "MT1",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 699,
+    "product": "i-Trac GPS",
+    "name": "MT1C",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 700,
+    "product": "i-Trac GPS",
+    "name": "MT1X",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 701,
+    "product": "i-Trac GPS",
+    "name": "MT1Z",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 702,
+    "product": "i-Trac GPS",
+    "name": "VT1000",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 703,
+    "product": "i-Trac GPS",
+    "name": "VT600X",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 704,
+    "product": "i-Trac GPS",
+    "name": "Y3",
+    "value": "itracgps",
+    "port": 7028
+  },
+  {
+    "uid": 705,
+    "product": "Alematics",
+    "name": "AE1",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 706,
+    "product": "Alematics",
+    "name": "AE1-W",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 707,
+    "product": "Alematics",
+    "name": "AE3",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 708,
+    "product": "Alematics",
+    "name": "AM1",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 709,
+    "product": "Alematics",
+    "name": "AM1-S",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 710,
+    "product": "Alematics",
+    "name": "AM1-W",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 711,
+    "product": "Alematics",
+    "name": "AM3",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 712,
+    "product": "Alematics",
+    "name": "AM3-S",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 713,
+    "product": "Alematics",
+    "name": "AM3-W",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 714,
+    "product": "Alematics",
+    "name": "AM7",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 715,
+    "product": "Alematics",
+    "name": "AM7-S",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 716,
+    "product": "Alematics",
+    "name": "AM7-W",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 717,
+    "product": "Alematics",
+    "name": "AP1",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 718,
+    "product": "Alematics",
+    "name": "AP3",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 719,
+    "product": "Alematics",
+    "name": "AP7",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 720,
+    "product": "Alematics",
+    "name": "AT1",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 721,
+    "product": "Alematics",
+    "name": "AT1-C",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 722,
+    "product": "Alematics",
+    "name": "AT3",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 723,
+    "product": "Alematics",
+    "name": "AT3-C",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 724,
+    "product": "Alematics",
+    "name": "AT7",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 725,
+    "product": "Alematics",
+    "name": "AT7-C",
+    "value": "alematics",
+    "port": 7029
+  },
+  {
+    "uid": 726,
+    "product": "Pretrace",
+    "name": "TC55",
+    "value": "pretrace",
+    "port": 7030
+  },
+  {
+    "uid": 727,
+    "product": "Pretrace",
+    "name": "TC56",
+    "value": "pretrace",
+    "port": 7030
+  },
+  {
+    "uid": 728,
+    "product": "Pretrace",
+    "name": "TC56L",
+    "value": "pretrace",
+    "port": 7030
+  },
+  {
+    "uid": 729,
+    "product": "Pretrace",
+    "name": "TC56W",
+    "value": "pretrace",
+    "port": 7030
+  },
+  {
+    "uid": 730,
+    "product": "Pretrace",
+    "name": "TC80",
+    "value": "pretrace",
+    "port": 7030
+  },
+  {
+    "uid": 731,
+    "product": "Pretrace",
+    "name": "TC85",
+    "value": "pretrace",
+    "port": 7030
+  },
+  {
+    "uid": 732,
+    "product": "Pretrace",
+    "name": "TC85D",
+    "value": "pretrace",
+    "port": 7030
+  },
+  {
+    "uid": 733,
+    "product": "Arknav",
+    "name": "AT-04",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 734,
+    "product": "Arknav",
+    "name": "AT-433",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 735,
+    "product": "Arknav",
+    "name": "AT-5000",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 736,
+    "product": "Arknav",
+    "name": "AT-9000",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 737,
+    "product": "Arknav",
+    "name": "CT-X8",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 738,
+    "product": "Arknav",
+    "name": "DX-3",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 739,
+    "product": "Arknav",
+    "name": "IR-7",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 740,
+    "product": "Arknav",
+    "name": "R-9PRO",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 741,
+    "product": "Arknav",
+    "name": "R-9W",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 742,
+    "product": "Arknav",
+    "name": "RV-8",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 743,
+    "product": "Arknav",
+    "name": "RV-9W",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 744,
+    "product": "Arknav",
+    "name": "RX-10",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 745,
+    "product": "Arknav",
+    "name": "RX-8W",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 746,
+    "product": "Arknav",
+    "name": "RX-9",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 747,
+    "product": "Arknav",
+    "name": "TDVR 42D",
+    "value": "arknav",
+    "port": 7031
+  },
+  {
+    "uid": 748,
+    "product": "Haicom",
+    "name": "HI-602X",
+    "value": "haicom",
+    "port": 7032
+  },
+  {
+    "uid": 749,
+    "product": "Haicom",
+    "name": "HI-603X",
+    "value": "haicom",
+    "port": 7032
+  },
+  {
+    "uid": 750,
+    "product": "Haicom",
+    "name": "HI-604X",
+    "value": "haicom",
+    "port": 7032
+  },
+  {
+    "uid": 751,
+    "product": "Haicom",
+    "name": "HI-605X",
+    "value": "haicom",
+    "port": 7032
+  },
+  {
+    "uid": 752,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO ADVANCE",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 753,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO AVL",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 754,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO BRACELET",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 755,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO CANBUS",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 756,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO CAR",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 757,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO HUNTER",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 758,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO PORTABLE",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 759,
+    "product": "CarTrackGPS",
+    "name": "iTrackPRO VLOGIC",
+    "value": "cartrackgps",
+    "port": 7033
+  },
+  {
+    "uid": 760,
+    "product": "KingSword",
+    "name": "ET-01",
+    "value": "kingsword",
+    "port": 7034
+  },
+  {
+    "uid": 761,
+    "product": "KingSword",
+    "name": "ET-02",
+    "value": "kingsword",
+    "port": 7034
+  },
+  {
+    "uid": 762,
+    "product": "Auto Leaders",
+    "name": "AL-900C",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 763,
+    "product": "Auto Leaders",
+    "name": "AL-900E",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 764,
+    "product": "Auto Leaders",
+    "name": "AL-900G",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 765,
+    "product": "KHD",
+    "name": "KC200",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 766,
+    "product": "KHD",
+    "name": "KG100",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 767,
+    "product": "KHD",
+    "name": "KG200",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 768,
+    "product": "KHD",
+    "name": "KG300",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 769,
+    "product": "STG",
+    "name": "T100",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 770,
+    "product": "STG",
+    "name": "T360",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 771,
+    "product": "Amwell",
+    "name": "T360-101A",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 772,
+    "product": "Amwell",
+    "name": "T360-101E",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 773,
+    "product": "Amwell",
+    "name": "T360-101P",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 774,
+    "product": "Amwell",
+    "name": "T360-103",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 775,
+    "product": "Amwell",
+    "name": "T360-106",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 776,
+    "product": "Amwell",
+    "name": "T360-108",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 777,
+    "product": "Amwell",
+    "name": "T360-269",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 778,
+    "product": "Amwell",
+    "name": "T360-269B",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 779,
+    "product": "Amwell",
+    "name": "T360-269JT",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 780,
+    "product": "STG",
+    "name": "T50",
+    "value": "amwell",
+    "port": 7035
+  },
+  {
+    "uid": 781,
+    "product": "San Jose Technology",
+    "name": "CT-24",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 782,
+    "product": "San Jose Technology",
+    "name": "CT-58",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 783,
+    "product": "San Jose Technology",
+    "name": "GC-101",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 784,
+    "product": "San Jose Technology",
+    "name": "GS-818",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 785,
+    "product": "San Jose Technology",
+    "name": "GU-819",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 786,
+    "product": "San Jose Technology",
+    "name": "GX-101",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 787,
+    "product": "San Jose Technology",
+    "name": "MT-101",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 788,
+    "product": "San Jose Technology",
+    "name": "MT-102",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 789,
+    "product": "San Jose Technology",
+    "name": "MU-201",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 790,
+    "product": "San Jose Technology",
+    "name": "MU-201S2",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 791,
+    "product": "San Jose Technology",
+    "name": "MU-201S3",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 792,
+    "product": "San Jose Technology",
+    "name": "QG-201",
+    "value": "sanav",
+    "port": 7036
+  },
+  {
+    "uid": 793,
+    "product": "GOTOP",
+    "name": "G01",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 794,
+    "product": "GOTOP",
+    "name": "G01-3G",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 795,
+    "product": "GOTOP",
+    "name": "G01-4G",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 796,
+    "product": "GOTOP",
+    "name": "G02",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 797,
+    "product": "GOTOP",
+    "name": "G07",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 798,
+    "product": "GOTOP",
+    "name": "G08",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 799,
+    "product": "GOTOP",
+    "name": "G09",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 800,
+    "product": "GOTOP",
+    "name": "G10",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 801,
+    "product": "GOTOP",
+    "name": "G100",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 802,
+    "product": "GOTOP",
+    "name": "G20",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 803,
+    "product": "GOTOP",
+    "name": "G23",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 804,
+    "product": "GOTOP",
+    "name": "G23D",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 805,
+    "product": "GOTOP",
+    "name": "G23N",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 806,
+    "product": "GOTOP",
+    "name": "G30",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 807,
+    "product": "GOTOP",
+    "name": "G50",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 808,
+    "product": "GOTOP",
+    "name": "GX5-4G",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 809,
+    "product": "GOTOP",
+    "name": "GX6-4G",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 810,
+    "product": "GOTOP",
+    "name": "T0500",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 811,
+    "product": "GOTOP",
+    "name": "T1010",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 812,
+    "product": "GOTOP",
+    "name": "T1200",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 813,
+    "product": "GOTOP",
+    "name": "T1600",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 814,
+    "product": "GOTOP",
+    "name": "T1900",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 815,
+    "product": "GOTOP",
+    "name": "T5000",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 816,
+    "product": "GOTOP",
+    "name": "T500S",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 817,
+    "product": "GOTOP",
+    "name": "T5800",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 818,
+    "product": "GOTOP",
+    "name": "T6300",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 819,
+    "product": "GOTOP",
+    "name": "TE-200",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 820,
+    "product": "GOTOP",
+    "name": "TE-207S",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 821,
+    "product": "GOTOP",
+    "name": "TK-120",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 822,
+    "product": "GOTOP",
+    "name": "TK-206",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 823,
+    "product": "GOTOP",
+    "name": "TK-208",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 824,
+    "product": "GOTOP",
+    "name": "TK-209B",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 825,
+    "product": "GOTOP",
+    "name": "TK-720",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 826,
+    "product": "GOTOP",
+    "name": "VT-321",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 827,
+    "product": "GOTOP",
+    "name": "VT-360",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 828,
+    "product": "GOTOP",
+    "name": "VT-360A",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 829,
+    "product": "GOTOP",
+    "name": "VT-380A",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 830,
+    "product": "GOTOP",
+    "name": "VT-390",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 831,
+    "product": "GOTOP",
+    "name": "VT-391",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 832,
+    "product": "GOTOP",
+    "name": "VT-392",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 833,
+    "product": "GOTOP",
+    "name": "VT393",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 834,
+    "product": "GOTOP",
+    "name": "X300C",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 835,
+    "product": "GOTOP",
+    "name": "X300N",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 836,
+    "product": "GOTOP",
+    "name": "X6180",
+    "value": "gotop",
+    "port": 7037
+  },
+  {
+    "uid": 837,
+    "product": "GlobalSat",
+    "name": "GTR-388C1",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 838,
+    "product": "GlobalSat",
+    "name": "LT-100",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 839,
+    "product": "GlobalSat",
+    "name": "LT-20",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 840,
+    "product": "GlobalSat",
+    "name": "LT-200E",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 841,
+    "product": "GlobalSat",
+    "name": "LT-200H",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 842,
+    "product": "GlobalSat",
+    "name": "LT-20R",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 843,
+    "product": "GlobalSat",
+    "name": "LW-360HR",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 844,
+    "product": "GlobalSat",
+    "name": "NW-360HR",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 845,
+    "product": "GlobalSat",
+    "name": "TR-350",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 846,
+    "product": "GlobalSat",
+    "name": "TR-616C1",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 847,
+    "product": "GlobalSat",
+    "name": "TR-900",
+    "value": "globalsat",
+    "port": 7038
+  },
+  {
+    "uid": 848,
+    "product": "Laipac Technology",
+    "name": "S911 Bracelet Locator",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 849,
+    "product": "Laipac Technology",
+    "name": "S911 Bracelet Locator HC",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 850,
+    "product": "Laipac Technology",
+    "name": "S911 Bracelet Locator ST",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 851,
+    "product": "Laipac Technology",
+    "name": "S911 Enforcer",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 852,
+    "product": "Laipac Technology",
+    "name": "S911 Lola",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 853,
+    "product": "Laipac Technology",
+    "name": "S911 Personal Locator",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 854,
+    "product": "Laipac Technology",
+    "name": "Starfinder Aire",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 855,
+    "product": "Laipac Technology",
+    "name": "Starfinder Bus",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 856,
+    "product": "Laipac Technology",
+    "name": "Starfinder Kamel",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 857,
+    "product": "Laipac Technology",
+    "name": "Starfinder Lite",
+    "value": "laipac",
+    "port": 7052
+  },
+  {
+    "uid": 858,
+    "product": "GoPass",
+    "name": "AVL-900",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 859,
+    "product": "GoPass",
+    "name": "AVL-900-2",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 860,
+    "product": "GoPass",
+    "name": "AVL-900-3",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 861,
+    "product": "GoPass",
+    "name": "AVL-900(M)",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 862,
+    "product": "GoPass",
+    "name": "AVL-900(R)",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 863,
+    "product": "GoPass",
+    "name": "AVL-900e",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 864,
+    "product": "GoPass",
+    "name": "AVL-901(B)",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 865,
+    "product": "GoPass",
+    "name": "AVL-901(C)",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 866,
+    "product": "GoPass",
+    "name": "AVL-901(D)",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 867,
+    "product": "GoPass",
+    "name": "AVL-921",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 868,
+    "product": "GoPass",
+    "name": "AVL-922",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 869,
+    "product": "GoPass",
+    "name": "AVL-926",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 870,
+    "product": "GoPass",
+    "name": "GPS-911(M)",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 871,
+    "product": "GoPass",
+    "name": "GPS-932",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 872,
+    "product": "GoPass",
+    "name": "GPS-990",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 873,
+    "product": "GoPass",
+    "name": "GPX06s",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 874,
+    "product": "GoPass",
+    "name": "GPX10L",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 875,
+    "product": "GoPass",
+    "name": "GPX10XL",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 876,
+    "product": "GoPass",
+    "name": "GPX803",
+    "value": "gopass",
+    "port": 7039
+  },
+  {
+    "uid": 885,
+    "product": "Jointech",
+    "name": "GP4000",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 886,
+    "product": "Jointech",
+    "name": "GP4000A",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 887,
+    "product": "Jointech",
+    "name": "GP5000",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 888,
+    "product": "Jointech",
+    "name": "GP6000",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 889,
+    "product": "Jointech",
+    "name": "GP6000F",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 890,
+    "product": "Jointech",
+    "name": "JT600",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 891,
+    "product": "Jointech",
+    "name": "JT600B",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 892,
+    "product": "Jointech",
+    "name": "JT600C",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 893,
+    "product": "Jointech",
+    "name": "JT700",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 894,
+    "product": "Jointech",
+    "name": "JT700DT",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 895,
+    "product": "Jointech",
+    "name": "JT701",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 896,
+    "product": "Jointech",
+    "name": "JT703",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 897,
+    "product": "Jointech",
+    "name": "JT704",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 898,
+    "product": "Jointech",
+    "name": "JT705",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 899,
+    "product": "Jointech",
+    "name": "JT707",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 900,
+    "product": "Jointech",
+    "name": "JT707A",
+    "value": "jointech",
+    "port": 7040
+  },
+  {
+    "uid": 901,
+    "product": "Meitrack",
+    "name": "T622G",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 902,
+    "product": "Meitrack",
+    "name": "T622G_F9",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 903,
+    "product": "Meitrack",
+    "name": "T633L",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 904,
+    "product": "Meitrack",
+    "name": "TC68L",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 905,
+    "product": "Meitrack",
+    "name": "TC68SG",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 906,
+    "product": "Meitrack",
+    "name": "TC68SL",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 907,
+    "product": "Meitrack",
+    "name": "TS299L",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 908,
+    "product": "Meitrack",
+    "name": "K211G",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 909,
+    "product": "Meitrack",
+    "name": "P88L",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 910,
+    "product": "Meitrack",
+    "name": "P99E",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 911,
+    "product": "Meitrack",
+    "name": "P99G",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 912,
+    "product": "Meitrack",
+    "name": "P99L",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 913,
+    "product": "Meitrack",
+    "name": "T355G",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 914,
+    "product": "Meitrack",
+    "name": "T622",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 915,
+    "product": "Meitrack",
+    "name": "T622E",
+    "value": "meitrack",
+    "port": 7001
+  },
+  {
+    "uid": 916,
+    "product": "ERM",
+    "name": "StarLink Asset",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 917,
+    "product": "ERM",
+    "name": "StarLink eConnect",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 918,
+    "product": "ERM",
+    "name": "StarLink EV",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 919,
+    "product": "ERM",
+    "name": "StarLink OBD",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 920,
+    "product": "ERM",
+    "name": "StarLink One",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 921,
+    "product": "ERM",
+    "name": "StarLink SVR",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 922,
+    "product": "ERM",
+    "name": "StarLink Tracker",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 923,
+    "product": "ERM",
+    "name": "StarLink Tracker SF",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 924,
+    "product": "ERM",
+    "name": "StarLink Tracker SR",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 925,
+    "product": "ERM",
+    "name": "StarLink TrackerCAN",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 926,
+    "product": "ERM",
+    "name": "StarLink TrackerWi-FI",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 927,
+    "product": "ERM",
+    "name": "StarLink Voice",
+    "value": "erm",
+    "port": 7051
+  },
+  {
+    "uid": 928,
+    "product": "TOPFLYtech",
+    "name": "T8608",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 929,
+    "product": "TOPFLYtech",
+    "name": "T8608D",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 930,
+    "product": "TOPFLYtech",
+    "name": "T8801",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 931,
+    "product": "TOPFLYtech",
+    "name": "T8802",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 933,
+    "product": "TOPFLYtech",
+    "name": "T8803+E",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 934,
+    "product": "TOPFLYtech",
+    "name": "T8806+R",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 935,
+    "product": "TOPFLYtech",
+    "name": "T8808+",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 936,
+    "product": "TOPFLYtech",
+    "name": "T8901",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 937,
+    "product": "TOPFLYtech",
+    "name": "TLD1",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 938,
+    "product": "TOPFLYtech",
+    "name": "TLD1-D",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 939,
+    "product": "TOPFLYtech",
+    "name": "TLP1-LF",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 940,
+    "product": "TOPFLYtech",
+    "name": "TLP1-P",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 941,
+    "product": "TOPFLYtech",
+    "name": "TLP1-SF",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 942,
+    "product": "TOPFLYtech",
+    "name": "TLP2-SF",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 943,
+    "product": "TOPFLYtech",
+    "name": "TLP2-SFB",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 944,
+    "product": "TOPFLYtech",
+    "name": "TLW1-10",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 945,
+    "product": "TOPFLYtech",
+    "name": "TLW1-8",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 946,
+    "product": "TOPFLYtech",
+    "name": "TLW2-9G",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 947,
+    "product": "TOPFLYtech",
+    "name": "TLW2-9GB",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 948,
+    "product": "Bofan",
+    "name": "PT03",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 949,
+    "product": "Bofan",
+    "name": "PT100",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 950,
+    "product": "Bofan",
+    "name": "PT200",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 951,
+    "product": "Bofan",
+    "name": "PT201",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 952,
+    "product": "Bofan",
+    "name": "PT30",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 953,
+    "product": "Bofan",
+    "name": "PT300X",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 954,
+    "product": "Bofan",
+    "name": "PT500",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 955,
+    "product": "Bofan",
+    "name": "PT502",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 956,
+    "product": "Bofan",
+    "name": "PT510",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 957,
+    "product": "Bofan",
+    "name": "PT520",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 958,
+    "product": "Bofan",
+    "name": "PT521",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 959,
+    "product": "Bofan",
+    "name": "PT60",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 960,
+    "product": "Bofan",
+    "name": "PT600X",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 961,
+    "product": "Bofan",
+    "name": "PT80",
+    "value": "bofan",
+    "port": 7042
+  },
+  {
+    "uid": 962,
+    "product": "Diwei",
+    "name": "DT20",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 963,
+    "product": "Diwei",
+    "name": "DVT100",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 964,
+    "product": "Diwei",
+    "name": "GOT08",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 965,
+    "product": "Diwei",
+    "name": "GOT10",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 966,
+    "product": "Diwei",
+    "name": "GPT06-W",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 967,
+    "product": "Diwei",
+    "name": "GPT106",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 968,
+    "product": "Diwei",
+    "name": "GPT12",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 969,
+    "product": "Diwei",
+    "name": "GPT12-L",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 970,
+    "product": "Diwei",
+    "name": "GPT15",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 971,
+    "product": "Diwei",
+    "name": "GPT19-H",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 972,
+    "product": "Diwei",
+    "name": "GPT19-H",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 973,
+    "product": "Diwei",
+    "name": "GPT29",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 974,
+    "product": "Diwei",
+    "name": "GPT46",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 975,
+    "product": "Diwei",
+    "name": "GT03A",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 976,
+    "product": "Diwei",
+    "name": "GT06",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 977,
+    "product": "Diwei",
+    "name": "GT60",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 978,
+    "product": "Diwei",
+    "name": "K30",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 979,
+    "product": "Diwei",
+    "name": "K9",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 980,
+    "product": "Diwei",
+    "name": "MGT90",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 981,
+    "product": "Diwei",
+    "name": "O168",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 982,
+    "product": "Diwei",
+    "name": "OT08",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 983,
+    "product": "Diwei",
+    "name": "PT06-T",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 984,
+    "product": "Diwei",
+    "name": "PT26",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 985,
+    "product": "Diwei",
+    "name": "TK101",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 986,
+    "product": "Diwei",
+    "name": "TK101",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 987,
+    "product": "Diwei",
+    "name": "TK103",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 988,
+    "product": "Diwei",
+    "name": "TK105",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 989,
+    "product": "Diwei",
+    "name": "TK108",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 990,
+    "product": "Diwei",
+    "name": "TK112",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 991,
+    "product": "Diwei",
+    "name": "TK115",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 992,
+    "product": "Diwei",
+    "name": "TK116",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 993,
+    "product": "Diwei",
+    "name": "TK118",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 994,
+    "product": "Diwei",
+    "name": "TK119-T",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 995,
+    "product": "Diwei",
+    "name": "TK119-W",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 996,
+    "product": "Diwei",
+    "name": "TK121",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 997,
+    "product": "Diwei",
+    "name": "TK121-S",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 998,
+    "product": "Diwei",
+    "name": "TK201",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 999,
+    "product": "Diwei",
+    "name": "TK202",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 1000,
+    "product": "Diwei",
+    "name": "TK319",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 1001,
+    "product": "Diwei",
+    "name": "TK319-H",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 1002,
+    "product": "Diwei",
+    "name": "TK319-H",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 1003,
+    "product": "Diwei",
+    "name": "TK319-L",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 1004,
+    "product": "Diwei",
+    "name": "TK419",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 1005,
+    "product": "Diwei",
+    "name": "VT310",
+    "value": "eelink",
+    "port": 7021
+  },
+  {
+    "uid": 1006,
+    "product": "Heacent",
+    "name": 908,
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1007,
+    "product": "Heacent",
+    "name": "HC06A",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1008,
+    "product": "KeSon",
+    "name": "KS-3G",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1009,
+    "product": "KeSon",
+    "name": "KS106",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1010,
+    "product": "KeSon",
+    "name": "KS108",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1011,
+    "product": "KeSon",
+    "name": "KS158",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1012,
+    "product": "KeSon",
+    "name": "KS158",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1013,
+    "product": "KeSon",
+    "name": "KS166",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1014,
+    "product": "KeSon",
+    "name": "KS168",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1015,
+    "product": "KeSon",
+    "name": "KS168F",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1016,
+    "product": "KeSon",
+    "name": "KS168M",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1017,
+    "product": "KeSon",
+    "name": "KS168M",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1018,
+    "product": "KeSon",
+    "name": "KS168T",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1019,
+    "product": "KeSon",
+    "name": "KS168V",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1020,
+    "product": "KeSon",
+    "name": "KS189",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1021,
+    "product": "KeSon",
+    "name": "KS1998",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1022,
+    "product": "KeSon",
+    "name": "KS199G",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1023,
+    "product": "KeSon",
+    "name": "KS2016",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1024,
+    "product": "KeSon",
+    "name": "KS365",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1025,
+    "product": "KeSon",
+    "name": "KS668",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1026,
+    "product": "KeSon",
+    "name": "KS668",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1027,
+    "product": "KeSon",
+    "name": "KS668",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1028,
+    "product": "KeSon",
+    "name": "KS668-OBD",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1029,
+    "product": "KeSon",
+    "name": "KS668H",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1030,
+    "product": "KeSon",
+    "name": "S188",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1031,
+    "product": "N/A",
+    "name": "HC207",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1032,
+    "product": "N/A",
+    "name": "P10",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1033,
+    "product": "N/A",
+    "name": "PT200",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1034,
+    "product": "N/A",
+    "name": "PT350",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1035,
+    "product": "N/A",
+    "name": "TK118",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1036,
+    "product": "N/A",
+    "name": "TL201",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1037,
+    "product": "N/A",
+    "name": "V680",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1038,
+    "product": "N/A",
+    "name": "VT810",
+    "value": "keson",
+    "port": 7041
+  },
+  {
+    "uid": 1039,
+    "product": "Autoseeker",
+    "name": "AT-1",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1040,
+    "product": "Autoseeker",
+    "name": "AT-12",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1041,
+    "product": "Autoseeker",
+    "name": "AT-12A",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1042,
+    "product": "Autoseeker",
+    "name": "AT-17",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1043,
+    "product": "Autoseeker",
+    "name": "AT-17B",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1044,
+    "product": "Autoseeker",
+    "name": "AT-19",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1045,
+    "product": "Mictrack",
+    "name": "MC300",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1046,
+    "product": "Mictrack",
+    "name": "MP10",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1047,
+    "product": "Mictrack",
+    "name": "MP80",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1048,
+    "product": "Mictrack",
+    "name": "MP90",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1049,
+    "product": "Mictrack",
+    "name": "MP90-NB",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1050,
+    "product": "Mictrack",
+    "name": "MT500",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1051,
+    "product": "Mictrack",
+    "name": "MT510",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1052,
+    "product": "Mictrack",
+    "name": "MT510-G",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1053,
+    "product": "Mictrack",
+    "name": "MT530",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1054,
+    "product": "Mictrack",
+    "name": "MT550",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1055,
+    "product": "Mictrack",
+    "name": "MT600",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1056,
+    "product": "Mictrack",
+    "name": "MT810",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1057,
+    "product": "Mictrack",
+    "name": "MT821",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1058,
+    "product": "Mictrack",
+    "name": "MT825",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1059,
+    "product": "V-Sun",
+    "name": "TLT-1B",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1060,
+    "product": "V-Sun",
+    "name": "TLT-1C",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1061,
+    "product": "V-Sun",
+    "name": "TLT-1D",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1062,
+    "product": "V-Sun",
+    "name": "TLT-1F",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1063,
+    "product": "V-Sun",
+    "name": "TLT-2F",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1064,
+    "product": "V-Sun",
+    "name": "TLT-2H",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1065,
+    "product": "V-Sun",
+    "name": "TLT-2K",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1066,
+    "product": "V-Sun",
+    "name": "TLT-2N",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1067,
+    "product": "V-Sun",
+    "name": "TLT-3",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1068,
+    "product": "V-Sun",
+    "name": "TLT-3A",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1069,
+    "product": "V-Sun",
+    "name": "TLT-6C",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1070,
+    "product": "V-Sun",
+    "name": "TLT-7",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1071,
+    "product": "V-Sun",
+    "name": "TLT-7B",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1072,
+    "product": "V-Sun",
+    "name": "TLT-8A",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1073,
+    "product": "V-Sun",
+    "name": "TLT-8B",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1074,
+    "product": "V-Sun",
+    "name": "V3880",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1075,
+    "product": "V-Sun",
+    "name": "V520",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1076,
+    "product": "V-Sun",
+    "name": "V520-1",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1077,
+    "product": "V-Sun",
+    "name": "V520-A",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1078,
+    "product": "V-Sun",
+    "name": "V526",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1079,
+    "product": "V-Sun",
+    "name": "V526-A",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1080,
+    "product": "V-Sun",
+    "name": "V530",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1081,
+    "product": "V-Sun",
+    "name": "V530-B",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1082,
+    "product": "V-Sun",
+    "name": "V580",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1083,
+    "product": "V-Sun",
+    "name": "V680-A",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1084,
+    "product": "V-Sun",
+    "name": "V690",
+    "value": "vsun",
+    "port": 7043
+  },
+  {
+    "uid": 1085,
+    "product": "Blue Idea",
+    "name": "T1",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1086,
+    "product": "Blue Idea",
+    "name": "V01",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1087,
+    "product": "Blue Idea",
+    "name": "V05",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1088,
+    "product": "Blue Idea",
+    "name": "V03",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1089,
+    "product": "Blue Idea",
+    "name": "T3",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1090,
+    "product": "Blue Idea",
+    "name": "V07",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1091,
+    "product": "Blue Idea",
+    "name": "MC500",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1092,
+    "product": "Blue Idea",
+    "name": "ET700",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1093,
+    "product": "Blue Idea",
+    "name": "ET800E",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1094,
+    "product": "Blue Idea",
+    "name": "ET800A",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1095,
+    "product": "Blue Idea",
+    "name": "MC600",
+    "value": "blueidea",
+    "port": 7044
+  },
+  {
+    "uid": 1096,
+    "product": "Man Power Technology",
+    "name": "MP2030A",
+    "value": "manpower",
+    "port": 7045
+  },
+  {
+    "uid": 1097,
+    "product": "Man Power Technology",
+    "name": "MP2030B",
+    "value": "manpower",
+    "port": 7045
+  },
+  {
+    "uid": 1098,
+    "product": "Man Power Technology",
+    "name": "MP2031A",
+    "value": "manpower",
+    "port": 7045
+  },
+  {
+    "uid": 1099,
+    "product": "Man Power Technology",
+    "name": "MP2031B",
+    "value": "manpower",
+    "port": 7045
+  },
+  {
+    "uid": 1100,
+    "product": "Man Power Technology",
+    "name": "MP2031C",
+    "value": "manpower",
+    "port": 7045
+  },
+  {
+    "uid": 1101,
+    "product": "Wonde Proud",
+    "name": "VT-10",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1102,
+    "product": "Wonde Proud",
+    "name": "VT-300",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1103,
+    "product": "Wonde Proud",
+    "name": "VT-360",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1104,
+    "product": "Wonde Proud",
+    "name": "M7",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1105,
+    "product": "Wonde Proud",
+    "name": "M7 D2",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1106,
+    "product": "Wonde Proud",
+    "name": "OT-10",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1107,
+    "product": "Wonde Proud",
+    "name": "TT-1",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1108,
+    "product": "Wonde Proud",
+    "name": "SPT-10",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1109,
+    "product": "N/A",
+    "name": "TK5000",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1110,
+    "product": "N/A",
+    "name": "TK5000XL",
+    "value": "wondeproud",
+    "port": 7046
+  },
+  {
+    "uid": 1111,
+    "product": "GPS Marker",
+    "name": "E130",
+    "value": "gpsmarker",
+    "port": 7047
+  },
+  {
+    "uid": 1112,
+    "product": "GPS Marker",
+    "name": "M100",
+    "value": "gpsmarker",
+    "port": 7047
+  },
+  {
+    "uid": 1113,
+    "product": "GPS Marker",
+    "name": "M130",
+    "value": "gpsmarker",
+    "port": 7047
+  },
+  {
+    "uid": 1114,
+    "product": "GPS Marker",
+    "name": "M60",
+    "value": "gpsmarker",
+    "port": 7047
+  },
+  {
+    "uid": 1115,
+    "product": "GPS Marker",
+    "name": "M70",
+    "value": "gpsmarker",
+    "port": 7047
+  },
+  {
+    "uid": 1116,
+    "product": "GPS Marker",
+    "name": "M80",
+    "value": "gpsmarker",
+    "port": 7047
+  },
+  {
+    "uid": 1117,
+    "product": "Defenstar",
+    "name": "DS007",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1118,
+    "product": "Defenstar",
+    "name": "DS811",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1119,
+    "product": "Defenstar",
+    "name": "GPS668",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1120,
+    "product": "Eview",
+    "name": "EV-04",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1121,
+    "product": "Eview",
+    "name": "EV-05",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1122,
+    "product": "Eview",
+    "name": "EV-07",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1123,
+    "product": "Eview",
+    "name": "EV-07B",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1124,
+    "product": "Eview",
+    "name": "EV-07P",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1125,
+    "product": "Eview",
+    "name": "EV-08",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1126,
+    "product": "Eview",
+    "name": "EV-09",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1127,
+    "product": "Eview",
+    "name": "EV-201",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1128,
+    "product": "Eview",
+    "name": "EV-202",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1129,
+    "product": "Eview",
+    "name": "EV-601",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1130,
+    "product": "Eview",
+    "name": "EV-602",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1131,
+    "product": "Eview",
+    "name": "EV-603",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1132,
+    "product": "Eview",
+    "name": "EV-606",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1133,
+    "product": "minifinder",
+    "name": "Atto",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1134,
+    "product": "minifinder",
+    "name": "Pico",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1135,
+    "product": "SaR-mini",
+    "name": "FAM",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1136,
+    "product": "SaR-mini",
+    "name": "PCB",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1137,
+    "product": "SaR-mini",
+    "name": "WSG",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1138,
+    "product": "Freedom",
+    "name": "PT-9",
+    "value": "freedom",
+    "port": 7049
+  },
+  {
+    "uid": 1139,
+    "product": "Freedom",
+    "name": "PT-10",
+    "value": "freedom",
+    "port": 7049
+  },
+  {
+    "uid": 1140,
+    "product": "Defenstar",
+    "name": "DS008",
+    "value": "eview",
+    "port": 7048
+  },
+  {
+    "uid": 1141,
+    "product": "TOPFLYtech",
+    "name": "TLW1-4",
+    "value": "topfly",
+    "port": 7050
+  },
+  {
+    "uid": 1142,
+    "product": "Navtelecom",
+    "name": "SIGNAL",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1143,
+    "product": "Navtelecom",
+    "name": "SIGNAL S-2651",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1144,
+    "product": "Navtelecom",
+    "name": "SIGNAL S-2653",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1145,
+    "product": "Navtelecom",
+    "name": "SMART S-2420 EASY",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1146,
+    "product": "Navtelecom",
+    "name": "SMART S-2420 EASY+",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1147,
+    "product": "Navtelecom",
+    "name": "SMART S-2422 MID",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1148,
+    "product": "Navtelecom",
+    "name": "SMART S-2423 MID+",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1149,
+    "product": "Navtelecom",
+    "name": "SMART S-2425 COMPLEX",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1150,
+    "product": "Navtelecom",
+    "name": "SMART S-242X",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1151,
+    "product": "Navtelecom",
+    "name": "SMART S-2433 HIT",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1152,
+    "product": "Navtelecom",
+    "name": "SMART S-2435 MAX",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1153,
+    "product": "Navtelecom",
+    "name": "SMART S-243X",
+    "value": "navtelecom",
+    "port": 7054
+  },
+  {
+    "uid": 1154,
+    "product": "Galileosky",
+    "name": "7x",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1155,
+    "product": "Galileosky",
+    "name": "7x 3G",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1156,
+    "product": "Galileosky",
+    "name": "7x Plus",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1157,
+    "product": "Galileosky",
+    "name": 7,
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1158,
+    "product": "Galileosky",
+    "name": "7x C",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1159,
+    "product": "Galileosky",
+    "name": "7.0 Wi-Fi",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1160,
+    "product": "Galileosky",
+    "name": "Base Block Lite",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1161,
+    "product": "Galileosky",
+    "name": "7.0 Lite",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1162,
+    "product": "Galileosky",
+    "name": "Base Block Optimum",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1163,
+    "product": "Galileosky",
+    "name": "OBD-II",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1164,
+    "product": "Galileosky",
+    "name": "Base Block Wi-Fi",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1165,
+    "product": "Galileosky",
+    "name": "Base Block Wi-Fi Hub",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1166,
+    "product": "Galileosky",
+    "name": "Base Block Iridium",
+    "value": "galileosky",
+    "port": 7055
+  },
+  {
+    "uid": 1167,
+    "product": "Ruptela",
+    "name": "FM-Eco3",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1168,
+    "product": "Ruptela",
+    "name": "FM-Eco4 light S",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1169,
+    "product": "Ruptela",
+    "name": "FM-Eco4 light+ 3G T",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1170,
+    "product": "Ruptela",
+    "name": "FM-Eco4+ 3G T",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1171,
+    "product": "Ruptela",
+    "name": "FM-Eco4+ S",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1172,
+    "product": "Ruptela",
+    "name": "FM-Plug4",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1173,
+    "product": "Ruptela",
+    "name": "FM-Pro3",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1174,
+    "product": "Ruptela",
+    "name": "FM-Pro4",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1175,
+    "product": "Ruptela",
+    "name": "FM-Tco3",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1176,
+    "product": "Ruptela",
+    "name": "FM-Tco4 HCV",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1177,
+    "product": "Ruptela",
+    "name": "FM-Tco4 LCV",
+    "value": "ruptela",
+    "port": 7056
+  },
+  {
+    "uid": 1178,
+    "product": "Arusnavi",
+    "name": "ARNAVI 5",
+    "value": "arusnavi",
+    "port": 7057
+  },
+  {
+    "uid": 1179,
+    "product": "Arusnavi",
+    "name": "ARNAVI INTEGRAL 3",
+    "value": "arusnavi",
+    "port": 7057
+  },
+  {
+    "uid": 1180,
+    "product": "Arusnavi",
+    "name": "ARNAVI BEACON",
+    "value": "arusnavi",
+    "port": 7057
+  },
+  {
+    "uid": 1181,
+    "product": "Arusnavi",
+    "name": "ARNAVI ESM-L",
+    "value": "arusnavi",
+    "port": 7057
+  },
+  {
+    "uid": 1182,
+    "product": "Arusnavi",
+    "name": "ARNAVI ESM-P",
+    "value": "arusnavi",
+    "port": 7057
+  },
+  {
+    "uid": 1183,
+    "product": "Neomatica",
+    "name": "ADM700 3G",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1184,
+    "product": "Neomatica",
+    "name": "ADM007 BLE",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1185,
+    "product": "Neomatica",
+    "name": "ADM100",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1186,
+    "product": "Neomatica",
+    "name": "ADM700",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1187,
+    "product": "Neomatica",
+    "name": "ADM300",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1188,
+    "product": "Neomatica",
+    "name": "ADM333",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1189,
+    "product": "Neomatica",
+    "name": "ADM333 BLE",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1190,
+    "product": "Neomatica",
+    "name": "ADM50",
+    "value": "neomatica",
+    "port": 7058
+  },
+  {
+    "uid": 1191,
+    "product": "BITREK",
+    "name": "BI 530P TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1192,
+    "product": "BITREK",
+    "name": "BI 530 TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1193,
+    "product": "BITREK",
+    "name": "BI 520L TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1194,
+    "product": "BITREK",
+    "name": "BI 520 TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1195,
+    "product": "BITREK",
+    "name": "BI 520R TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1196,
+    "product": "BITREK",
+    "name": "BI 820 TREK OBD",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1197,
+    "product": "BITREK",
+    "name": "BI 920 TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1198,
+    "product": "BITREK",
+    "name": "BI 310 CICADA",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1199,
+    "product": "BITREK",
+    "name": "BI 810 TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1200,
+    "product": "BITREK",
+    "name": "BI 910 TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1201,
+    "product": "BITREK",
+    "name": "BI 820 TREK",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1202,
+    "product": "BITREK",
+    "name": "BI 810",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1203,
+    "product": "BITREK",
+    "name": "BI 810 CONNECT",
+    "value": "teltonika",
+    "port": 7002
+  },
+  {
+    "uid": 1204,
+    "product": "Satellite Solutions",
+    "name": "SAT-LITE 3",
+    "value": "satellite",
+    "port": 7059
+  },
+  {
+    "uid": 1205,
+    "product": "Satellite Solutions",
+    "name": "SAT-LITE 4",
+    "value": "satellite",
+    "port": 7059
+  },
+  {
+    "uid": 1206,
+    "product": "Autofon",
+    "name": "Alpha-2XL-Mayak",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1207,
+    "product": "Autofon",
+    "name": "Omega",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1208,
+    "product": "Autofon",
+    "name": "Mayak D",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1209,
+    "product": "Autofon",
+    "name": "Alpha-XL-Mayak",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1210,
+    "product": "Autofon",
+    "name": "Micro Mayak",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1211,
+    "product": "Autofon",
+    "name": "Omega v2",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1212,
+    "product": "Autofon",
+    "name": "Mayak D-moto",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1213,
+    "product": "Autofon",
+    "name": "Mayak v8",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1214,
+    "product": "Autofon",
+    "name": "Alpha-Mayak",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1215,
+    "product": "Autofon",
+    "name": "Mayak",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1216,
+    "product": "Autofon",
+    "name": "Mayak SE",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1217,
+    "product": "Autofon",
+    "name": "Mayak SE+",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1218,
+    "product": "Autofon",
+    "name": "Mayak v5",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1219,
+    "product": "Autofon",
+    "name": "Mayak v7",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1220,
+    "product": "StarLine",
+    "name": "M10",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1221,
+    "product": "StarLine",
+    "name": "M11",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1222,
+    "product": "StarLine",
+    "name": "M16",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1223,
+    "product": "StarLine",
+    "name": "M17",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1224,
+    "product": "StarLine",
+    "name": "M96 SL",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1225,
+    "product": "StarLine",
+    "name": "M96 M",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1226,
+    "product": "StarLine",
+    "name": "A96",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1227,
+    "product": "StarLine",
+    "name": "T94",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1228,
+    "product": "StarLine",
+    "name": "M36",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1229,
+    "product": "StarLine",
+    "name": "A61",
+    "value": "autofon",
+    "port": 7060
+  },
+  {
+    "uid": 1230,
+    "product": "ATrack",
+    "name": "AK1",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1231,
+    "product": "ATrack",
+    "name": "AK11",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1232,
+    "product": "ATrack",
+    "name": "AK7(S)",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1233,
+    "product": "ATrack",
+    "name": "AK7V",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1234,
+    "product": "ATrack",
+    "name": "AL1",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1235,
+    "product": "ATrack",
+    "name": "AL11",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1236,
+    "product": "ATrack",
+    "name": "AL7",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1237,
+    "product": "ATrack",
+    "name": "AP1",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1238,
+    "product": "ATrack",
+    "name": "AP3",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1239,
+    "product": "ATrack",
+    "name": "AS1(E)",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1240,
+    "product": "ATrack",
+    "name": "AS11",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1241,
+    "product": "ATrack",
+    "name": "AS3P(B)",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1242,
+    "product": "ATrack",
+    "name": "AT1",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1243,
+    "product": "ATrack",
+    "name": "AT1 Pro",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1244,
+    "product": "ATrack",
+    "name": "AT3",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1245,
+    "product": "ATrack",
+    "name": "AT5",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1246,
+    "product": "ATrack",
+    "name": "AT5i",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1247,
+    "product": "ATrack",
+    "name": "AU5",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1248,
+    "product": "ATrack",
+    "name": "AU5i",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1249,
+    "product": "ATrack",
+    "name": "AU7",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1250,
+    "product": "ATrack",
+    "name": "AX11",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1251,
+    "product": "ATrack",
+    "name": "AX5",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1252,
+    "product": "ATrack",
+    "name": "AX5C",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1253,
+    "product": "ATrack",
+    "name": "AX7",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1254,
+    "product": "ATrack",
+    "name": "AX7B",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1255,
+    "product": "ATrack",
+    "name": "AX7P",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1256,
+    "product": "ATrack",
+    "name": "AX9",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1257,
+    "product": "ATrack",
+    "name": "AY5",
+    "value": "atrack",
+    "port": 7061
+  },
+  {
+    "uid": 1258,
+    "product": "ATrack",
+    "name": "AY5i",
+    "value": "atrack",
+    "port": 7061
+  }
+]

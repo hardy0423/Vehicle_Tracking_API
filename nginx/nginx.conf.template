@@ -1,0 +1,21 @@
+# Define an HTTP server block (port 80)
+server {
+    # Listen on port 80 (HTTP)
+    listen 80;
+
+    # Domain name handled by this server block
+    server_name $SERVER_NAME;
+
+    # Root directory for static frontend files (e.g., Angular or another SPA)
+    root /usr/share/nginx/html;
+
+    # Default files to serve when accessing a directory
+    index index.html index.htm;
+
+    # Handle all HTTP requests
+    location / {
+        # Try to serve the requested file, or fallback to index.html
+        # Useful for Single Page Applications (SPA) to support client-side routing
+        try_files $uri $uri/ /index.html;
+    }
+}

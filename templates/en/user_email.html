@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Account Confirmation</title>
+    <style>
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        .card-container {
+            width: 90%;
+            max-width: 500px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+        }
+        .header {
+            color: #2872c2;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .content {
+            text-align: left;
+        }
+        .button {
+            display: inline-block;
+            background-color: #2872c2;
+            color: white;
+            padding: 12px 20px;
+            margin-top: 20px;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+        .button:hover {
+            background-color: #1e5a9b;
+        }
+    </style>
+</head>
+<body>
+    <center>
+        <div class="card-container">
+            <h2 class="header">Account Successfully Created</h2>
+            <div class="content">
+                <p>Hello,</p>
+                <p>An account for the company <b>{{company_name}}</b> has been created using your email address.</p>
+                <p>Please click the button below to set your password:</p>
+                <center>
+                    <a href="{{link}}" class="button">Set My Password</a>
+                </center>
+                <p>If the button does not work, copy and paste this link into your browser:</p>
+                <p style="word-break: break-all; color: #2872c2;"><strong>{{link}}</strong></p>
+                <p>Best regards,</p>
+            </div>
+        </div>
+    </center>
+</body>
+</html>

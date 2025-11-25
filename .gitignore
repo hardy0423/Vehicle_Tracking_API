@@ -1,0 +1,4 @@
+/backend/debug.log
+.env.local
+/mediafiles/company_logos/
+/staticfiles/
